@@ -5,7 +5,8 @@
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rkzenSqzN">Unit 1</a></summary><br>
   
 - [Unit Overview](https://demo.peblio.co/pebl/KrE5DRXmW)
-- [Topic 1: Grayscale Drawings](https://demo.peblio.co/profile/CS4ALL/folder/rJ6du6UfN)
+- <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rJ6du6UfN">Topic 1: Grayscale Drawings</a></summary>
+ 
   - [1.1: p5 Introduction](https://demo.peblio.co/profile/CS4ALL/folder/HkW5Vy_yH)
     - [Lesson Plan](https://demo.peblio.co/pebl/yR6_Zr4tD)
   - [1.2: Line Functions and Parameters](https://demo.peblio.co/profile/CS4ALL/folder/BJssV1uJB)
@@ -23,7 +24,10 @@
   - [1.5 Mini Project- Taijutu Symbol](https://demo.peblio.co/profile/CS4ALL/folder/rk-bB1ukB)
     - [Lesson Plan](https://demo.peblio.co/pebl/QsLzibyYu)
     - [Worksheet](https://demo.peblio.co/pebl/nFSwt9oKz)   
-- [Topic 2: Make it Vary](https://demo.peblio.co/profile/CS4ALL/folder/r1cY_pLME)
+ </details>
+ 
+- <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/r1cY_pLME">Topic 2: Make it Vary</a></summary>
+ 
   - [2.1: Intro to Variables: System Variables](https://demo.peblio.co/profile/CS4ALL/folder/HkgC7lFlS)
     - [Lesson Plan](https://demo.peblio.co/pebl/C3xYs1e-Y)
     - [Worksheet](https://demo.peblio.co/pebl/W1gi5Y6Ba)   
@@ -35,9 +39,12 @@
     - [Worksheet](https://demo.peblio.co/pebl/FaVuy7DS_)  
   - [2.4: Mini Project: Emojis](https://demo.peblio.co/profile/CS4ALL/folder/BktXNeKlH)
     - [Lesson Plan](https://demo.peblio.co/pebl/nqg0ssqkX)
-    - [Worksheet](https://demo.peblio.co/pebl/hx0crRYYG)   
-- [Topic 3: Make it Colorful](https://demo.peblio.co/profile/CS4ALL/folder/B1ZtOTUM4)
-  - [3.1: Intro to Color](https://demo.peblio.co/profile/CS4ALL/folder/H1c_acmbB)
+    - [Worksheet](https://demo.peblio.co/pebl/hx0crRYYG)  
+  </details>
+
+- <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/B1ZtOTUM4">Topic 3: Make it Colorful</a></summary>
+
+- [3.1: Intro to Color](https://demo.peblio.co/profile/CS4ALL/folder/H1c_acmbB)
     - [Lesson Plan](https://demo.peblio.co/pebl/zP5hWCUXI)
     - [Worksheet](https://demo.peblio.co/pebl/YQ-HFIWT8)   
   - [3.2: RGB vs HSB colorMode](https://demo.peblio.co/profile/CS4ALL/folder/rkZcTcmZr)
@@ -49,6 +56,7 @@
  - [Final Project]( https://demo.peblio.co/profile/CS4ALL/folder/BkkY7_cG4)
 </details>
 
+</details>
 
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/B1mL8C2Q4">Unit 2</a></summary><br>
 
