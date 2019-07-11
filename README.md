@@ -59,19 +59,19 @@
 </details>
 
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/B1mL8C2Q4">Unit 2</a></summary><br>
-
  
 - [Unit Overview]()
 - [Topic 1: Draw with Mouse 1.1 Conditionals and If Statements](https://demo.peblio.co/profile/CS4ALL/folder/rJHY8C3XE)
   - [1.1 Conditionals and IF Statements](https://demo.peblio.co/dashboard/CS4ALL/folder/H1TzvT4WH)
-    - [Lesson Plan]()
-    - [Worksheet]()
-  - [1.2: ]()
-    - [Lesson Plan]()
-    - [Worksheet]()
-  - [1.3: ]()
-    - [Lesson Plan]()
-    - [Worksheet]()    
+    - [Lesson Plan](https://demo.peblio.co/pebl/0Mb8qqN7X)
+    - [Worksheet](https://demo.peblio.co/pebl/bLT2d4dHU)
+  - [1.2 Conditionals and If, Else If, Else Statements](https://demo.peblio.co/profile/CS4ALL/folder/H1CmSAEbH)
+    - [Lesson Plan](https://demo.peblio.co/pebl/qwW7C-h3E)
+    - [Worksheet: If else](https://demo.peblio.co/pebl/vgrgvg9x9)
+    - [Worksheet: Traffic light challenge](https://demo.peblio.co/pebl/yb6SsmXCM)
+  - [1.3 Logical Operators AND and OR](https://demo.peblio.co/profile/CS4ALL/folder/HJe03AEbS)
+    - [Lesson Plan](https://demo.peblio.co/pebl/dYNZPsB0h)
+    - [Worksheet](https://demo.peblio.co/pebl/ugOMyD8SK)    
   - [1.4: ]()
     - [Lesson Plan]()
     - [Worksheet]()
