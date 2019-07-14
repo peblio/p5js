@@ -1,4 +1,20 @@
 # Introduction to Computational Media with p5.js
+
+## PD Materials  
+_These pebls include the slides and sample code for PD. It will be updated daily._
+
+- [Day 1: Introduction to p5.js]()
+
+
+
+## Getting started with p5 projects 
+_These projects help you get up and running with p5 very quickly. They include instructions, videos and sample code. You can create the projects in the Peblio workspace as you watch these videos. They are not classroom resources, but resources to help you build your comfort level with p5._
+
+- [Project 1: Drawing Apps](https://demo.peblio.co/pebl/Muth86erj)
+- [Project 2: Generative Design](https://demo.peblio.co/pebl/xtShIBrtc)
+- [Project 3: Game Design](https://demo.peblio.co/pebl/oqwx-4Zz7)
+
+
 ## Curriculum Overview 
  _These resources are based on the Introduction to Computational Media curriculum from CS4ALL which can be found [here](https://nycdoe-cs4all.github.io/index.html)_
 
@@ -9,6 +25,7 @@
  
   - [1.1: p5 Introduction](https://demo.peblio.co/profile/CS4ALL/folder/HkW5Vy_yH)
     - [Lesson Plan](https://demo.peblio.co/pebl/yR6_Zr4tD)
+    - [Robot Worksheet](https://drive.google.com/file/d/1npDydYLTug3cDlfWjlijgH9ci-AcpdBV/view)
   - [1.2: Line Functions and Parameters](https://demo.peblio.co/profile/CS4ALL/folder/BJssV1uJB)
     - [Lesson Plan](https://demo.peblio.co/pebl/WjYpgWncc)
     - [Worksheet](https://demo.peblio.co/pebl/scRbvpIi3)
