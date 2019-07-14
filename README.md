@@ -21,8 +21,8 @@ _These projects help you get up and running with p5 very quickly. They include i
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rkzenSqzN">Unit 1</a></summary><br>
   
 - [Unit Overview](https://demo.peblio.co/pebl/KrE5DRXmW)
-- <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rJ6du6UfN">Topic 1: Grayscale Drawings</a></summary>
- 
+
+- [Topic 1: Grayscale Drawings](https://demo.peblio.co/profile/CS4ALL/folder/rJ6du6UfN)
   - [1.1: p5 Introduction](https://demo.peblio.co/profile/CS4ALL/folder/HkW5Vy_yH)
     - [Lesson Plan](https://demo.peblio.co/pebl/yR6_Zr4tD)
     - [Robot Worksheet](https://drive.google.com/file/d/1npDydYLTug3cDlfWjlijgH9ci-AcpdBV/view)
@@ -31,7 +31,7 @@ _These projects help you get up and running with p5 very quickly. They include i
     - [Worksheet](https://demo.peblio.co/pebl/scRbvpIi3)
     - [Peblio Guide](https://demo.peblio.co/pebl/0W69aS64f)
     - [p5 Web Editor Guide](https://demo.peblio.co/pebl/w29xUZXfs)
-  - [1.3: Rectangles, Ellipses, and Layering](https://demo.peblio.co/dashboard/CS4ALL/folder/HkupEkOJH)
+  - [1.3: Rectangles, Ellipses, and Layering](https://demo.peblio.co/profile/CS4ALL/folder/HkupEkOJH)
     - [Lesson Plan](https://demo.peblio.co/pebl/7R-imgJ67)
     - [Worksheet](https://demo.peblio.co/pebl/YSue13I5l)
     - [Presentation Pebl](https://demo.peblio.co/pebl/ceeF3_kRm)
@@ -41,10 +41,8 @@ _These projects help you get up and running with p5 very quickly. They include i
   - [1.5 Mini Project- Taijutu Symbol](https://demo.peblio.co/profile/CS4ALL/folder/rk-bB1ukB)
     - [Lesson Plan](https://demo.peblio.co/pebl/QsLzibyYu)
     - [Worksheet](https://demo.peblio.co/pebl/nFSwt9oKz)   
- </details>
- 
-- <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/r1cY_pLME">Topic 2: Make it Vary</a></summary>
- 
+    
+- [Topic 2: Make it Vary](https://demo.peblio.co/profile/CS4ALL/folder/r1cY_pLME) 
   - [2.1: Intro to Variables: System Variables](https://demo.peblio.co/profile/CS4ALL/folder/HkgC7lFlS)
     - [Lesson Plan](https://demo.peblio.co/pebl/C3xYs1e-Y)
     - [Worksheet](https://demo.peblio.co/pebl/W1gi5Y6Ba)   
@@ -57,11 +55,9 @@ _These projects help you get up and running with p5 very quickly. They include i
   - [2.4: Mini Project: Emojis](https://demo.peblio.co/profile/CS4ALL/folder/BktXNeKlH)
     - [Lesson Plan](https://demo.peblio.co/pebl/nqg0ssqkX)
     - [Worksheet](https://demo.peblio.co/pebl/hx0crRYYG)  
-  </details>
 
-- <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/B1ZtOTUM4">Topic 3: Make it Colorful</a></summary>
-
-- [3.1: Intro to Color](https://demo.peblio.co/profile/CS4ALL/folder/H1c_acmbB)
+- [Topic 3: Make it Colorful](https://demo.peblio.co/profile/CS4ALL/folder/B1ZtOTUM4)
+  - [3.1: Intro to Color](https://demo.peblio.co/profile/CS4ALL/folder/H1c_acmbB)
     - [Lesson Plan](https://demo.peblio.co/pebl/zP5hWCUXI)
     - [Worksheet](https://demo.peblio.co/pebl/YQ-HFIWT8)   
   - [3.2: RGB vs HSB colorMode](https://demo.peblio.co/profile/CS4ALL/folder/rkZcTcmZr)
@@ -70,10 +66,9 @@ _These projects help you get up and running with p5 very quickly. They include i
   - [3.3: Color Palettes and Design](https://demo.peblio.co/profile/CS4ALL/folder/BJIja9Qbr)
     - [Lesson Plan](https://demo.peblio.co/pebl/KYYAxZyar)
     - [Worksheet](https://demo.peblio.co/pebl/qRw9rWGcr)   
- - [Final Project]( https://demo.peblio.co/profile/CS4ALL/folder/BkkY7_cG4)
-</details>
-
-</details>
+  - [Final Project]( https://demo.peblio.co/profile/CS4ALL/folder/BkkY7_cG4)
+  
+  </details>
 
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/B1mL8C2Q4">Unit 2</a></summary><br>
  
