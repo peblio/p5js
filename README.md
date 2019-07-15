@@ -42,8 +42,8 @@ _These projects help you get up and running with p5 very quickly. They include i
     - [Lesson Plan](https://demo.peblio.co/pebl/QsLzibyYu)
     - [Worksheet](https://demo.peblio.co/pebl/nFSwt9oKz)
   - [1.5 Mini Project- Taijutu Symbol](https://demo.peblio.co/profile/CS4ALL/folder/rk-bB1ukB)
-    - [Lesson Plan](https://demo.peblio.co/pebl/QsLzibyYu)
-    - [Worksheet](https://demo.peblio.co/pebl/nFSwt9oKz)   
+    - [Lesson Plan](https://demo.peblio.co/pebl/6KegNoOJk)
+    - [Worksheet](https://demo.peblio.co/pebl/NWOYrmgcE)   
     
 - [Topic 2: Make it Vary](https://demo.peblio.co/profile/CS4ALL/folder/r1cY_pLME) 
   - [2.1: Intro to Variables: System Variables](https://demo.peblio.co/profile/CS4ALL/folder/HkgC7lFlS)
