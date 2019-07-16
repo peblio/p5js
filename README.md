@@ -24,7 +24,7 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 - [Hour of Code Page](https://www.peblio.co/hour-of-code)
 
 
-## Curriculum Overview 
+## 9th Grade Curriculum Overview 
  _These resources are based on the Introduction to Computational Media curriculum from CS4ALL which can be found [here](https://nycdoe-cs4all.github.io/index.html)_
 
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rkzenSqzN">Unit 1</a></summary><br>
@@ -114,5 +114,22 @@ _This hour of code activity introduces drawing with p5 and system variables mous
     - [Lesson Plan]()
     - [Worksheet]()
 - [Final Project]()
+
+</details>
+
+## 7th Grade Curriculum Overview 
+ _These resources are based on the 7th grade Introduction to Computational Media curriculum from CS4ALL)_
+ 
+ <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/S1RrJFBWS">Unit 1</a></summary><br>
+  
+- [Unit Overview](https://demo.peblio.co/pebl/QQyClRHxW)
+- [LA 1: Intro to p5](https://demo.peblio.co/pebl/OLR0YHgpL)
+- [LA 2: Basic Shapes](https://demo.peblio.co/pebl/OLR0YHgpL)
+- [LA 3: Create a Grayscale and RGB Drawing](https://demo.peblio.co/pebl/BCEMGeXcPM)
+- [LA 4: Built in Variables: Width and Height](https://demo.peblio.co/pebl/L-ZZ5_-Aa)
+- [LA 5: Draw a character: Complex Shapes](https://demo.peblio.co/pebl/fUx-p_YHG)
+- [LA 6: Built in Variables: mouseX, mouseY](https://demo.peblio.co/pebl/k51b7kCiY)
+- [LA 7: Custom Variables](https://demo.peblio.co/pebl/CLVWeL2lO)
+- [LA 8: Final Project: Emoji Design](https://demo.peblio.co/pebl/nGC36rs3t)
 
 </details>
