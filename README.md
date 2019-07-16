@@ -18,6 +18,10 @@ _These projects help you get up and running with p5 very quickly. They include i
 - [Project 2: Generative Design](https://demo.peblio.co/pebl/xtShIBrtc)
 - [Project 3: Game Design](https://demo.peblio.co/pebl/oqwx-4Zz7)
 
+## Interactive Art: Hour of Code
+_This hour of code activity introduces drawing with p5 and system variables mouseX and mouseY. If you change the sequence and teach colors after shapes followed by system variables, this is a great project option._
+- [Hour of Code Page](https://www.peblio.co/hour-of-code)
+
 
 ## Curriculum Overview 
  _These resources are based on the Introduction to Computational Media curriculum from CS4ALL which can be found [here](https://nycdoe-cs4all.github.io/index.html)_
