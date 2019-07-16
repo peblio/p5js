@@ -5,6 +5,7 @@ _These pebls include the slides and sample code for PD. It will be updated daily
 
 - [Day 1: Introduction to p5.js](https://demo.peblio.co/pebl/8t-FKyTrt)
 - [Day 2: Color and Variables](https://demo.peblio.co/pebl/vQCwSkYkb)
+- [Day 3: Conditional Logic](https://demo.peblio.co/pebl/boz18lM_7)
 
 ## Instructional Videos 
 _The coding train is am amazing resource for p5 instructional videos. Dan Schiffman is amazing and you can learn anything from his channel._
