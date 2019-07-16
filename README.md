@@ -120,16 +120,53 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 ## 7th Grade Curriculum Overview 
  _These resources are based on the 7th grade Introduction to Computational Media curriculum from CS4ALL)_
  
- <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/S1RrJFBWS">Unit 1</a></summary><br>
+ <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/S1RrJFBWS">Unit 1: Drawing and Variables</a></summary><br>
   
 - [Unit Overview](https://demo.peblio.co/pebl/QQyClRHxW)
-- [LA 1: Intro to p5](https://demo.peblio.co/pebl/OLR0YHgpL)
-- [LA 2: Basic Shapes](https://demo.peblio.co/pebl/OLR0YHgpL)
-- [LA 3: Create a Grayscale and RGB Drawing](https://demo.peblio.co/pebl/BCEMGeXcPM)
-- [LA 4: Built in Variables: Width and Height](https://demo.peblio.co/pebl/L-ZZ5_-Aa)
-- [LA 5: Draw a character: Complex Shapes](https://demo.peblio.co/pebl/fUx-p_YHG)
-- [LA 6: Built in Variables: mouseX, mouseY](https://demo.peblio.co/pebl/k51b7kCiY)
-- [LA 7: Custom Variables](https://demo.peblio.co/pebl/CLVWeL2lO)
-- [LA 8: Final Project: Emoji Design](https://demo.peblio.co/pebl/nGC36rs3t)
+- [LA 1: Intro to p5](https://demo.peblio.co/dashboard/CS4ALL/folder/Ska33Ao-B)
+ - [Lesson Plan](https://demo.peblio.co/pebl/OLR0YHgpL)
+- [LA 2: Basic Shapes](https://demo.peblio.co/dashboard/CS4ALL/folder/ryXkaAoWB)
+ - [Lesson Plan](https://demo.peblio.co/pebl/OLR0YHgpL)
+- [LA 3: Create a Grayscale and RGB Drawing](https://demo.peblio.co/dashboard/CS4ALL/folder/rJKb6CoWB)
+ - [Lesson Plan](https://demo.peblio.co/pebl/BCEMGeXcPM)
+- [LA 4: Built in Variables: Width and Height](https://demo.peblio.co/dashboard/CS4ALL/folder/rJPETRsZB)
+ - [Lesson Plan](https://demo.peblio.co/pebl/L-ZZ5_-Aa)
+- [LA 5: Draw a character: Complex Shapes](https://demo.peblio.co/dashboard/CS4ALL/folder/BkGITCo-S)
+ - [Lesson Plan](https://demo.peblio.co/pebl/fUx-p_YHG)
+- [LA 6: Built in Variables: mouseX, mouseY](https://demo.peblio.co/dashboard/CS4ALL/folder/Hy3vaRo-r)
+ - [Lesson Plan](https://demo.peblio.co/pebl/k51b7kCiY)
+- [LA 7: Custom Variables](https://demo.peblio.co/dashboard/CS4ALL/folder/r1QqpCoZr)
+ - [Lesson Plan](https://demo.peblio.co/pebl/CLVWeL2lO)
+- [LA 8: Final Project: Emoji Design](https://demo.peblio.co/dashboard/CS4ALL/folder/rkEjp0jbH)
+ - [Lesson Plan](https://demo.peblio.co/pebl/nGC36rs3t)
 
+
+</details>
+
+ <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/S1RrJFBWS">Unit 2: Responsive Interfaces</a></summary><br>
+  
+- [Unit Overview](https://demo.peblio.co/pebl/QTvgh4tcZ)
+- [LA 1: Conditional Statements](https://demo.peblio.co/dashboard/CS4ALL/folder/By3W1khWB)
+ - [Lesson Plan](https://demo.peblio.co/pebl/33f1O25-C)
+- [LA 2:Else and Else if](https://demo.peblio.co/dashboard/CS4ALL/folder/rJEEyJhZS)
+ - [Lesson Plan](https://demo.peblio.co/pebl/BDIOrU7pO)
+- [LA 3: Logical Operators ](https://demo.peblio.co/dashboard/CS4ALL/folder/BkKSy1nZS)
+ - [Lesson Plan](https://demo.peblio.co/pebl/GhjmpYAu5)
+- [LA 4: Draw with the mouse](https://demo.peblio.co/dashboard/CS4ALL/folder/ryewJk2WH)
+ - [Lesson Plan](https://demo.peblio.co/pebl/NaPcwNdNM)
+- [LA 5: Event Handlers](https://demo.peblio.co/dashboard/CS4ALL/folder/SyJKJy3br)
+ - [Lesson Plan](https://demo.peblio.co/pebl/CYdL9UXAO)
+- [LA 6: Wrapping Conditionals](https://demo.peblio.co/dashboard/CS4ALL/folder/rkMqy1nWr)
+ - [Lesson Plan](https://demo.peblio.co/pebl/lPugMrBTJ)
+- [LA 7: Custom Color Variables](https://demo.peblio.co/dashboard/CS4ALL/folder/rywsJynbS)
+ - [Lesson Plan](https://demo.peblio.co/pebl/Gc2yBgJtf)
+- [LA 8: mousePressed Functions](https://demo.peblio.co/dashboard/CS4ALL/folder/Skk6yJ2Wr)
+ - [Lesson Plan](https://demo.peblio.co/pebl/I4Hk1f7tA)
+- [LA 9: Create Buttons](https://demo.peblio.co/dashboard/CS4ALL/folder/BkG1ey3Zr)
+ - [Lesson Plan](https://demo.peblio.co/pebl/fq-RjmdTA)
+- [LA 10: Mapping Values](https://demo.peblio.co/dashboard/CS4ALL/folder/S1wxly3bH)
+ - [Lesson Plan](https://demo.peblio.co/pebl/klzQ-N45h) 
+- [LA 11: Final Project: Button Game](https://demo.peblio.co/dashboard/CS4ALL/folder/HJ7Mgyn-B)
+ - [Lesson Plan](https://demo.peblio.co/pebl/CMg0t30Ha) 
+ 
 </details>
