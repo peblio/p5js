@@ -170,3 +170,22 @@ _This hour of code activity introduces drawing with p5 and system variables mous
  - [Lesson Plan](https://demo.peblio.co/pebl/CMg0t30Ha) 
  
 </details>
+
+
+<details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/S1RrJFBWS">Unit 3: Loops</a></summary><br>
+  
+- [Unit Overview](https://demo.peblio.co/pebl/_xUyTGy_m)
+- [LA 1: Repetition (While Loops)](https://demo.peblio.co/pebl/-8fraVr6X)
+ - [Lesson Plan](https://demo.peblio.co/pebl/33f1O25-C)
+- [LA 2:Repetition (For Loops)](https://demo.peblio.co/dashboard/CS4ALL/folder/BJCj-JnWr)
+ - [Lesson Plan](https://demo.peblio.co/pebl/Il7FgGxT7)
+- [LA 3: Repetition (Columns and Rows) ](https://demo.peblio.co/dashboard/CS4ALL/folder/rkeAWyhbr)
+ - [Lesson Plan](https://demo.peblio.co/pebl/MDVWtmw18)
+- [LA 4: Variation in For Loops](https://demo.peblio.co/dashboard/CS4ALL/folder/BJ6efy3-r)
+ - [Lesson Plan](https://demo.peblio.co/pebl/9m51_kF7m)
+- [LA 5: Nested For Loops](https://demo.peblio.co/dashboard/CS4ALL/folder/SyIMMJ3bS)
+ - [Lesson Plan](https://demo.peblio.co/pebl/cdppotN9H)
+- [LA 6: Final Project: Wallpaper Design](https://demo.peblio.co/dashboard/CS4ALL/folder/rkPXz12-S)
+ - [Lesson Plan](https://demo.peblio.co/pebl/jPfLbagnl)
+ 
+</details>
