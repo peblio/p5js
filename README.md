@@ -6,6 +6,7 @@ _These pebls include the slides and sample code for PD. It will be updated daily
 - [Day 1: Introduction to p5.js](https://demo.peblio.co/pebl/8t-FKyTrt)
 - [Day 2: Color and Variables](https://demo.peblio.co/pebl/vQCwSkYkb)
 - [Day 3: Conditional Logic](https://demo.peblio.co/pebl/boz18lM_7)
+- [Day 4: Drawing Apps](https://demo.peblio.co/pebl/Ag6iO6zQk)
 
 ## Instructional Videos 
 _The coding train is am amazing resource for p5 instructional videos. Dan Schiffman is amazing and you can learn anything from his channel._
@@ -93,12 +94,13 @@ _This hour of code activity introduces drawing with p5 and system variables mous
   - [1.3 Logical Operators AND and OR](https://demo.peblio.co/profile/CS4ALL/folder/HJe03AEbS)
     - [Lesson Plan](https://demo.peblio.co/pebl/dYNZPsB0h)
     - [Worksheet](https://demo.peblio.co/pebl/ugOMyD8SK)    
-  - [1.4: ]()
-    - [Lesson Plan]()
-    - [Worksheet]()
-  - [1.5: ]()
-    - [Lesson Plan]()
-    - [Worksheet]()
+  - [1.4: Draw with a mouse](https://demo.peblio.co/profile/CS4ALL/folder/HkxSNbHbB)
+    - [Lesson Plan](https://demo.peblio.co/pebl/NOGaWnInt)
+    - [Worksheet](https://demo.peblio.co/pebl/ilJCpsv9H)
+  - [1.5: The Map Function](https://demo.peblio.co/profile/CS4ALL/folder/SkzPEZHbS)
+    - [Lesson Plan](https://demo.peblio.co/pebl/ePeeWGiSt)
+    - [Worksheet](https://demo.peblio.co/pebl/GoXmjjifS)
+    
 - [Topic 2: Hover and Click on Things](https://demo.peblio.co/profile/CS4ALL/folder/Hkqk1fmVN)
   - [2.1: ]()
     - [Lesson Plan]()
