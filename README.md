@@ -13,9 +13,11 @@ _The curriculum and worksheets are built using the Peblio platform. Peblio pages
 - [Peblio Guide](https://demo.peblio.co/pebl/XeJAt6pVQ)
 
 ## Instructional Videos 
-_The coding train is am amazing resource for p5 instructional videos. Dan Schiffman is amazing and you can learn anything from his channel._
+_The coding train is am amazing resource for p5 instructional videos. Dan Shiffman is amazing and you can learn anything from his channel._
 
 - [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- [Intro to p5 Learning Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
 
 ## Getting started with p5 projects 
 _These projects help you get up and running with p5 very quickly. They include instructions, videos and sample code. You can create the projects in the Peblio workspace as you watch these videos. They are not classroom resources, but resources to help you build your comfort level with p5._
