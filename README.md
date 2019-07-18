@@ -32,7 +32,7 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 ## 9th Grade Curriculum  
  _These resources are based on the Introduction to Computational Media curriculum from CS4ALL which can be found [here](https://nycdoe-cs4all.github.io/index.html)_
 
-<details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rkzenSqzN">Unit 1</a></summary><br>
+<details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rkzenSqzN">Unit 1: Drawing, Variables, Random</a></summary><br>
   
 - [Unit Overview](https://demo.peblio.co/pebl/KrE5DRXmW)
 
@@ -84,7 +84,7 @@ _This hour of code activity introduces drawing with p5 and system variables mous
   
   </details>
 
-<details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/B1mL8C2Q4">Unit 2</a></summary><br>
+<details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/B1mL8C2Q4">Unit 2: Response & Draw</a></summary><br>
  
 - [Unit Overview]()
 - [Topic 1: Draw with Mouse 1.1 Conditionals and If Statements](https://demo.peblio.co/profile/CS4ALL/folder/rJHY8C3XE)
@@ -124,27 +124,27 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 
 </details>
 
-<details><summary><a href="https://demo.peblio.co/dashboard/CS4ALL/folder/ry7OAk22N">Unit 3</a></summary><br>
+<details><summary><a href="https://demo.peblio.co/dashboard/CS4ALL/folder/ry7OAk22N">Unit 3: Loops, Arrays, Media</a></summary><br>
 
-- [Topic 1: Loops](https://demo.peblio.co/dashboard/CS4ALL/folder/rkKlPplpN)
-  - [1.1: While Loops](https://demo.peblio.co/dashboard/CS4ALL/folder/ByzQgXp-r)
+- [Topic 1: Loops](https://demo.peblio.co/profile/CS4ALL/folder/rkKlPplpN)
+  - [1.1: While Loops](https://demo.peblio.co/profile/CS4ALL/folder/ByzQgXp-r)
     - [Lesson Plan](https://demo.peblio.co/pebl/Ia3_bZu7M)
     - [Worksheet](https://demo.peblio.co/pebl/NAC0z8n0t)
-  - [1.2: For Loops I](https://demo.peblio.co/dashboard/CS4ALL/folder/BkmExXTbB)
+  - [1.2: For Loops I](https://demo.peblio.co/profile/CS4ALL/folder/BkmExXTbB)
     - [Lesson Plan](https://demo.peblio.co/pebl/pIzNh9ZBI)
     - [Worksheet](https://demo.peblio.co/pebl/3oh4VZjXC)
-  - [1.3: For Loops II](https://demo.peblio.co/dashboard/CS4ALL/folder/SyPrgQ6-r)
+  - [1.3: For Loops II](https://demo.peblio.co/profile/CS4ALL/folder/SyPrgQ6-r)
     - [Lesson Plan](https://demo.peblio.co/pebl/ja5FnI8XA)
     - [Worksheet](https://demo.peblio.co/pebl/VVHSu79Yu)
-  - [1.4: Variation in For Loops](https://demo.peblio.co/dashboard/CS4ALL/folder/SJs8eQaZS)
+  - [1.4: Variation in For Loops](https://demo.peblio.co/profile/CS4ALL/folder/SJs8eQaZS)
     - [Lesson Plan](https://demo.peblio.co/pebl/Sp4zpr4hr)
-    - [Worksheet]()
-  - [1.5: Nested For Loops](https://demo.peblio.co/dashboard/CS4ALL/folder/rJGOgQaWS)
-    - [Lesson Plan]()
-    - [Worksheet]()
-  - [1.6: Mini Project: Wallpaper](https://demo.peblio.co/dashboard/CS4ALL/folder/B1KKgm6ZH)
-    - [Lesson Plan]()
-    - [Worksheet]()
+    - [Worksheet](https://demo.peblio.co/pebl/D4oE0bkPk)
+  - [1.5: Nested For Loops](https://demo.peblio.co/profile/CS4ALL/folder/rJGOgQaWS)
+    - [Lesson Plan](https://demo.peblio.co/pebl/2i41We1oc)
+    - [Worksheet](https://demo.peblio.co/pebl/k_nw1Y_MD)
+  - [1.6: Mini Project: Wallpaper](https://demo.peblio.co/profile/CS4ALL/folder/B1KKgm6ZH)
+    - [Lesson Plan](https://demo.peblio.co/pebl/oP8o2mTsh)
+    - [Project Template](https://demo.peblio.co/pebl/fPElZ0m2I)
 
 </details>
 
