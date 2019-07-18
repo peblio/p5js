@@ -29,7 +29,7 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 - [Hour of Code Page](https://www.peblio.co/hour-of-code)
 
 
-## 9th Grade Curriculum Overview 
+## 9th Grade Curriculum  
  _These resources are based on the Introduction to Computational Media curriculum from CS4ALL which can be found [here](https://nycdoe-cs4all.github.io/index.html)_
 
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rkzenSqzN">Unit 1</a></summary><br>
