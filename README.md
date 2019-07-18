@@ -81,14 +81,16 @@ _This hour of code activity introduces drawing with p5 and system variables mous
     - [Worksheet](https://demo.peblio.co/pebl/ks5Wai1zi) 
   - [3.3: Color Palettes and Design](https://demo.peblio.co/profile/CS4ALL/folder/BJIja9Qbr)
     - [Lesson Plan](https://demo.peblio.co/pebl/KYYAxZyar)
-    - [Worksheet](https://demo.peblio.co/pebl/qRw9rWGcr)   
+    - [Worksheet](https://demo.peblio.co/pebl/qRw9rWGcr)  
+    
   - [Final Project]( https://demo.peblio.co/profile/CS4ALL/folder/BkkY7_cG4)
   
   </details>
 
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/B1mL8C2Q4">Unit 2: Response & Draw</a></summary><br>
  
-- [Unit Overview]()
+- [Unit Overview](https://demo.peblio.co/pebl/3Q8q8S6p3)
+
 - [Topic 1: Draw with Mouse 1.1 Conditionals and If Statements](https://demo.peblio.co/profile/CS4ALL/folder/rJHY8C3XE)
   - [1.1 Conditionals and IF Statements](https://demo.peblio.co/dashboard/CS4ALL/folder/H1TzvT4WH)
     - [Lesson Plan](https://demo.peblio.co/pebl/0Mb8qqN7X)
@@ -108,21 +110,24 @@ _This hour of code activity introduces drawing with p5 and system variables mous
     - [Worksheet](https://demo.peblio.co/pebl/GoXmjjifS)
     
 - [Topic 2: Hover and Click on Things](https://demo.peblio.co/profile/CS4ALL/folder/Hkqk1fmVN)
-  - [2.1: ]()
-    - [Lesson Plan]()
+  - [2.1: Hover and Conditional Statements](https://demo.peblio.co/profile/CS4ALL/folder/Bk6MrJRZr)
+    - [Lesson Plan](https://demo.peblio.co/pebl/cag17i8tY)
     - [Worksheet]()
-  - [2.2: ]()
-    - [Lesson Plan]()
+  - [2.2: Rectangles and Clicks](https://demo.peblio.co/profile/CS4ALL/folder/SJkVH10br)
+    - [Lesson Plan](https://demo.peblio.co/pebl/6CAL0F6HR)
     - [Worksheet]()
-  - [2.3: Mini Project]()
-    - [Lesson Plan]()
+  - [2.3: Mini Project: Light Switch Game](https://demo.peblio.co/profile/CS4ALL/folder/HyWHHkRWr)
+    - [Lesson Plan](https://demo.peblio.co/pebl/JmmZsUUQf)
     - [Worksheet]()
     
 - [Topic 3: Press Keys](https://demo.peblio.co/profile/CS4ALL/folder/H1gekM74E)
-  - [3.1: ]()
-    - [Lesson Plan]()
+  - [3.1: Key Presses and Conditionals](https://demo.peblio.co/profile/CS4ALL/folder/HyT4Uk0-H)
+    - [Lesson Plan](https://demo.peblio.co/pebl/-YC928BR6)
     - [Worksheet]()
-- [Final Project]()
+    
+- [Final Project](https://demo.peblio.co/profile/CS4ALL/folder/BJchChV-r)
+    - [Lesson Plan](https://demo.peblio.co/pebl/xFOeADwoL)
+    - [Worksheet]()
 
 </details>
 
