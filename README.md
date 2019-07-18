@@ -8,6 +8,10 @@ _These pebls include the slides and sample code for PD. It will be updated daily
 - [Day 3: Conditional Logic](https://demo.peblio.co/pebl/boz18lM_7)
 - [Day 4: Drawing Apps](https://demo.peblio.co/pebl/Ag6iO6zQk)
 
+## A Guide to Using Peblio 
+_The curriculum and worksheets are built using the Peblio platform. Peblio pages contain executable code, text, slides, videos and more. They are useful for creating and sharing programming worksheets and documenting programming projects. See this guide for detailed instructions._
+- [Peblio Guide](https://demo.peblio.co/pebl/XeJAt6pVQ)
+
 ## Instructional Videos 
 _The coding train is am amazing resource for p5 instructional videos. Dan Schiffman is amazing and you can learn anything from his channel._
 
@@ -111,11 +115,36 @@ _This hour of code activity introduces drawing with p5 and system variables mous
   - [2.3: Mini Project]()
     - [Lesson Plan]()
     - [Worksheet]()
+    
 - [Topic 3: Press Keys](https://demo.peblio.co/profile/CS4ALL/folder/H1gekM74E)
   - [3.1: ]()
     - [Lesson Plan]()
     - [Worksheet]()
 - [Final Project]()
+
+</details>
+
+<details><summary><a href="https://demo.peblio.co/dashboard/CS4ALL/folder/ry7OAk22N">Unit 3</a></summary><br>
+
+- [Topic 1: Loops](https://demo.peblio.co/dashboard/CS4ALL/folder/rkKlPplpN)
+  - [1.1: While Loops](https://demo.peblio.co/dashboard/CS4ALL/folder/ByzQgXp-r)
+    - [Lesson Plan](https://demo.peblio.co/pebl/Ia3_bZu7M)
+    - [Worksheet](https://demo.peblio.co/pebl/NAC0z8n0t)
+  - [1.2: For Loops I](https://demo.peblio.co/dashboard/CS4ALL/folder/BkmExXTbB)
+    - [Lesson Plan](https://demo.peblio.co/pebl/pIzNh9ZBI)
+    - [Worksheet](https://demo.peblio.co/pebl/3oh4VZjXC)
+  - [1.3: For Loops II](https://demo.peblio.co/dashboard/CS4ALL/folder/SyPrgQ6-r)
+    - [Lesson Plan](https://demo.peblio.co/pebl/ja5FnI8XA)
+    - [Worksheet](https://demo.peblio.co/pebl/VVHSu79Yu)
+  - [1.4: Variation in For Loops](https://demo.peblio.co/dashboard/CS4ALL/folder/SJs8eQaZS)
+    - [Lesson Plan](https://demo.peblio.co/pebl/Sp4zpr4hr)
+    - [Worksheet]()
+  - [1.5: Nested For Loops](https://demo.peblio.co/dashboard/CS4ALL/folder/rJGOgQaWS)
+    - [Lesson Plan]()
+    - [Worksheet]()
+  - [1.6: Mini Project: Wallpaper](https://demo.peblio.co/dashboard/CS4ALL/folder/B1KKgm6ZH)
+    - [Lesson Plan]()
+    - [Worksheet]()
 
 </details>
 
