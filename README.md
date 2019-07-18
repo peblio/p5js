@@ -11,6 +11,8 @@ _These pebls include the slides and sample code for PD. It will be updated daily
 ## A Guide to Using Peblio 
 _The curriculum and worksheets are built using the Peblio platform. Peblio pages contain executable code, text, slides, videos and more. They are useful for creating and sharing programming worksheets and documenting programming projects. See this guide for detailed instructions._
 - [Peblio Guide](https://demo.peblio.co/pebl/XeJAt6pVQ)
+- [Uploading images in Peblio](https://demo.peblio.co/pebl/5qrWMaoi6)
+- [Loading Gifs in p5](https://demo.peblio.co/pebl/b6F-rrWDF)
 
 ## Instructional Videos 
 _The coding train is am amazing resource for p5 instructional videos. Dan Shiffman is amazing and you can learn anything from his channel._
@@ -227,3 +229,9 @@ _This hour of code activity introduces drawing with p5 and system variables mous
   - [Lesson Plan](https://demo.peblio.co/pebl/jPfLbagnl)
  
 </details>
+
+## Workshops and Tutorials  
+- Meme Generator:Build a randomized meme generator in p5
+  - [Tutorial](https://demo.peblio.co/pebl/qsH5OOeV3)
+- Generative Portraits: upload images and generate portraits with p5 shapes and the .get function
+  - [Worksheet](https://demo.peblio.co/pebl/c3fUnHI9v)
