@@ -237,3 +237,8 @@ _This hour of code activity introduces drawing with p5 and system variables mous
   -[Worksheet](https://demo.peblio.co/pebl/c3fUnHI9v)
 - Changing faces conditionals practice
  -[Worksheet](https://demo.peblio.co/pebl/r_n96oWxQ)
+ 
+## Additional Tools 
+- [Code-it: A block language based on p5](https://app.code-it-studio.de/makerspace/54)
+- [Open Processing: A web editor with a lot of cool examples from the community](https://www.openprocessing.org/)
+- [Codepen: A front end web editor with cool examples (although mostly not p5)](https://codepen.io/)
