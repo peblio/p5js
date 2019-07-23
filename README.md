@@ -33,7 +33,7 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 - [Hour of Code Page](https://www.peblio.co/hour-of-code)
 
 
-## 9th Grade Curriculum  
+## High School Curriculum  
  _These resources are based on the Introduction to Computational Media curriculum from CS4ALL which can be found [here](https://nycdoe-cs4all.github.io/index.html)_
 
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rkzenSqzN">Unit 1: Drawing, Variables, Random</a></summary><br>
@@ -114,22 +114,22 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 - [Topic 2: Hover and Click on Things](https://demo.peblio.co/profile/CS4ALL/folder/Hkqk1fmVN)
   - [2.1: Hover and Conditional Statements](https://demo.peblio.co/profile/CS4ALL/folder/Bk6MrJRZr)
     - [Lesson Plan](https://demo.peblio.co/pebl/cag17i8tY)
-    - [Worksheet]()
+    - [Worksheet](https://demo.peblio.co/pebl/gvI5HqpAq)
   - [2.2: Rectangles and Clicks](https://demo.peblio.co/profile/CS4ALL/folder/SJkVH10br)
     - [Lesson Plan](https://demo.peblio.co/pebl/6CAL0F6HR)
-    - [Worksheet]()
+    - [Worksheet](https://demo.peblio.co/pebl/l64jmFy94)
   - [2.3: Mini Project: Light Switch Game](https://demo.peblio.co/profile/CS4ALL/folder/HyWHHkRWr)
     - [Lesson Plan](https://demo.peblio.co/pebl/JmmZsUUQf)
-    - [Worksheet]()
+    - [Worksheet](https://demo.peblio.co/pebl/V8F5bcU9Y)
     
 - [Topic 3: Press Keys](https://demo.peblio.co/profile/CS4ALL/folder/H1gekM74E)
   - [3.1: Key Presses and Conditionals](https://demo.peblio.co/profile/CS4ALL/folder/HyT4Uk0-H)
     - [Lesson Plan](https://demo.peblio.co/pebl/-YC928BR6)
-    - [Worksheet]()
+    - [Worksheet](https://demo.peblio.co/pebl/KwIfg-uw-)
     
 - [Final Project](https://demo.peblio.co/profile/CS4ALL/folder/BJchChV-r)
-    - [Lesson Plan](https://demo.peblio.co/pebl/xFOeADwoL)
-    - [Worksheet]()
+    - [Lesson Plan](https://demo.peblio.co/pebl/28PkzoPNu)
+    - [Worksheet](https://demo.peblio.co/pebl/xFOeADwoL)
 
 </details>
 
