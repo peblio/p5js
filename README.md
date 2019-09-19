@@ -158,6 +158,17 @@ _This hour of code activity introduces drawing with p5 and system variables mous
   - [1.6: Mini Project: Wallpaper](https://demo.peblio.co/profile/CS4ALL/folder/B1KKgm6ZH)
     - [Lesson Plan](https://demo.peblio.co/pebl/oP8o2mTsh)
     - [Project Template](https://demo.peblio.co/pebl/fPElZ0m2I)
+    
+- [Topic 2: Arrays](https://demo.peblio.co/profile/CS4ALL/folder/HyJRvTl64)
+  - [2.1: Introduction to Arrays](https://demo.peblio.co/profile/CS4ALL/folder/ByGbKgWDB)
+    - [Lesson Plan](https://demo.peblio.co/pebl/9uZAOWQKa)
+    - [Worksheet](https://demo.peblio.co/pebl/Y3JJeNuaS)
+  - [2.2: Arrays and floor() Function](https://demo.peblio.co/profile/CS4ALL/folder/HkR0KxWvB)
+    - [Lesson Plan](https://demo.peblio.co/pebl/nU5TelKJf)
+    - [Worksheet](https://demo.peblio.co/pebl/XavNfuHEJ)
+  - [2.3: Arrays and Loops](https://demo.peblio.co/profile/CS4ALL/folder/ByGgcxbwr)
+    - [Lesson Plan](https://demo.peblio.co/pebl/lea66r4_Q)
+    - [Worksheet](https://demo.peblio.co/pebl/mRsBwcZgv)
 
 </details>
 
