@@ -95,7 +95,7 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/B1mL8C2Q4">Unit 2: Response & Draw</a></summary><br>
  
-- [Unit Overview](https://demo.peblio.co/pebl/3Q8q8S6p3)
+- [Unit 2 Overview](https://demo.peblio.co/pebl/3Q8q8S6p3)
 
 - [Topic 1: Draw with Mouse 1.1 Conditionals and If Statements](https://demo.peblio.co/profile/CS4ALL/folder/rJHY8C3XE)
   - [1.1 Conditionals and IF Statements](https://demo.peblio.co/dashboard/CS4ALL/folder/H1TzvT4WH)
@@ -131,7 +131,7 @@ _This hour of code activity introduces drawing with p5 and system variables mous
     - [Lesson Plan](https://demo.peblio.co/pebl/-YC928BR6)
     - [Worksheet](https://demo.peblio.co/pebl/KwIfg-uw-)
     
-- [Final Project](https://demo.peblio.co/profile/CS4ALL/folder/BJchChV-r)
+- [Unit 2 Final Project](https://demo.peblio.co/profile/CS4ALL/folder/BJchChV-r)
     - [Lesson Plan](https://demo.peblio.co/pebl/28PkzoPNu)
     - [Worksheet](https://demo.peblio.co/pebl/xFOeADwoL)
 
@@ -169,7 +169,44 @@ _This hour of code activity introduces drawing with p5 and system variables mous
   - [2.3: Arrays and Loops](https://demo.peblio.co/profile/CS4ALL/folder/ByGgcxbwr)
     - [Lesson Plan](https://demo.peblio.co/pebl/lea66r4_Q)
     - [Worksheet](https://demo.peblio.co/pebl/mRsBwcZgv)
-
+    
+- [Topic 3: Media]()
+  - [3.1: Introduction to Arrays]()
+    - [Lesson Plan]()
+    - [Worksheet]()
+  - [3.2: Arrays and floor() Function]()
+    - [Lesson Plan]()
+    - [Worksheet]()
+  - [3.3: Arrays and Loops]()
+    - [Lesson Plan]()
+    - [Worksheet]()
+  - [3.4: Mini Project Vision Board]()
+    - [Lesson Plan]()
+    - [Worksheet]()
+    
+- [Topic 4: Typography]()
+  - [4.1 Fonts and Text Styling ]()
+    - [Lesson Plan]()
+    - [Worksheet]()
+  - [4.2: Mini-Project: Kinetic Type  ]()
+    - [Lesson Plan]()
+    - [Worksheet]()
+    
+- [Topic 5: Sound]()
+  - [5.1 Sound Files]()
+    - [Lesson Plan]()
+    - [Worksheet]()
+  - [5.2 Playing Sounds]()
+    - [Lesson Plan]()
+    - [Worksheet]()
+  - [5.3 Mini-Project: Musical Keyboard]()
+    - [Lesson Plan]()
+    - [Worksheet]()    
+ 
+- [Unit 3 Final Project]()
+    - [Lesson Plan]()
+    - [Worksheet]()
+    
 </details>
 
 ## 7th Grade Curriculum Overview 
